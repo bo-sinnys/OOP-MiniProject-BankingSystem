@@ -2,6 +2,7 @@ using BankingSystem.Application.Services;
 using BankingSystem.Domain.Entities;
 using BankingSystem.Domain.Exceptions;
 using BankingSystem.Infrastructure.Repositories;
+using Xunit;
 
 namespace BankingSystem.Tests;
 
